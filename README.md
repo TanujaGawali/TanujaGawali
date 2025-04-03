@@ -23,26 +23,7 @@ J.A.R.V.I.S. is an AI-powered **virtual assistant** designed to automate daily t
 - **IoT Integration**: ESP-32 🔌
 - **Database**: Firebase 🔥, MySQL 📊
 
-### 🔧 **Installation & Usage**
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/TanujaAI/Jarvis-AI-Assistant.git
-   cd Jarvis-AI-Assistant
-   ```
-2. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the Assistant:**
-   ```bash
-   python jarvis.py
-   ```
-4. **Activate Speech Mode:**
-   - Say **"Hey Jarvis"** to activate voice commands.
-   - Give commands like **"Open YouTube"**, **"What’s the weather?"**, etc.
 
-### 📊 **Results & Screenshots**
-📸 *[Add screenshots of working AI assistant interface & command execution]*
 
 ### 🚀 **Future Scope & Improvements**
 ✅ Enhance NLP for better contextual understanding  
